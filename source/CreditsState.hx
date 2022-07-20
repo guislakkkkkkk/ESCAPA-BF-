@@ -85,7 +85,7 @@ class CreditsState extends MusicBeatState
 			['Saw (M.A. Jigsaw)',	'saw',				'Main Programmer of Psych Engine Android',					'https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ', 	'F73838'],
 			[''],
 			['Cara q fez o port lol'],
-			['Guislakkkk',	'gui',				'FODA SO Q Ñ',					'https://youtube.com/channel/UCVniqkS8csFDi8U2N6UrVhQ', 	'FE0015'],
+			['Guislakkkk',	'gui',				'lol',					'https://youtube.com/channel/UCVniqkS8csFDi8U2N6UrVhQ', 	'FE0015'],
 			[''],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',							'https://twitter.com/Shadow_Mario_',	'444444'],
